@@ -214,31 +214,6 @@ graph LR
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sadiastic/Sadiastic/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sadiastic/Sadiastic/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sadiastic/Sadiastic/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=false&bar_color=00f7ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
