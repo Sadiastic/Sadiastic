@@ -143,7 +143,7 @@ const sadiastic = {
 
 ```mermaid
 graph LR
-    A[🎓 Computer Science] --> B[💻 Web Development]
+    A[🎓 Computer Engineering] --> B[💻 Web Development]
     B --> C[🚀 Full-Stack MERN]
     C --> D[🤖 Robotics & IoT]
     D --> E[🧠 AI/ML & Computer Vision]
